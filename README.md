@@ -26,3 +26,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 all finisshed
 
 dev add
+
+main add
